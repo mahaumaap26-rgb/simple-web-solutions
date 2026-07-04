@@ -1,13 +1,7 @@
 export const metadata = {
   title: "Simple Web Solutions | Sinduja Ranganathamani",
   description:
-    "We design modern, fast, SEO-friendly websites that help businesses grow and generate more leads.",
-  keywords: [
-    "website design",
-    "web development",
-    "business website",
-    "freelance web designer",
-  ],
+    "We design modern, fast, SEO-friendly websites that help businesses grow.",
 };
 
 export default function RootLayout({
